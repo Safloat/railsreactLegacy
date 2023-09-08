@@ -1,0 +1,19 @@
+.navbar{
+    display:flex;
+    align-items: baseline;
+   background-color: aliceblue;
+
+    /* justify-content: space-between; */
+}
+.aDD{
+   background-color: aliceblue;
+   border:none;
+   
+}
+.color{
+    background-color: rgb(28, 212, 212);
+    border:none;
+}
+.aDD:hover{
+    background-color:  rgba(28, 212, 212, 0.479);
+}
